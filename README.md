@@ -48,3 +48,5 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 Making a branch conflict because the mergetool has gone crazy.
+
+updated .gitconfig to properly use meld.
