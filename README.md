@@ -24,7 +24,7 @@ I should get to coding at some point.
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
-Quote break.
+Quote's will wrap.
 
 ___
 
