@@ -47,6 +47,6 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-Completely different - that's a problem!
+Making a branch conflict because the mergetool has gone crazy.
 
-So here I'll mess it up.
+updated .gitconfig to properly use meld.
