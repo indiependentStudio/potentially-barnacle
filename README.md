@@ -54,3 +54,6 @@ updated .gitconfig to properly use meld.
 jira integration test for nttcweb-16
 
 and now updating the local source
+
+now lets comment and close the jira task using
+NTTCWEB-16 #comment Done and tested #Done
